@@ -27,7 +27,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Videos de YouTube</title>
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="estilos/main.css">
 </head>
 <body>
   <section>
@@ -41,7 +41,7 @@
       <iframe class="youtube-video" width="315" height="560" src="https://www.youtube.com/embed/bX8Th6hFrE8?enablejsapi=1" title="La Magia del Marketing." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   </section>
-  <script src="index.js"></script>
+  <script src="funciones/index.js"></script>
 </body>
 </html>
 

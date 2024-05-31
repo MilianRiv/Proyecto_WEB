@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-  <link href="css/main.css"  rel="stylesheet">
-  <link href="css/galeria.css" rel="stylesheet">
+  <link href="estilos/main.css"  rel="stylesheet">
+  <link href="estilos/galeria.css" rel="stylesheet">
   
 <!-- NAVEGACIÓN -->
 <nav class="header-nav">

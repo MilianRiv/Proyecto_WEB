@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página Acerca de</title>
-    <link rel="stylesheet" href="acercade.css">
+    <link rel="stylesheet" href="estilos/acercade.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Arvo:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900">
     <meta name='robots' content='max-image-preview:large' />

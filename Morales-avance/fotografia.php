@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Si Market</title>
-  <link rel="stylesheet" type="text/css" href="css/styles.css"> <!-- Enlazar el archivo CSS externo -->
+  <link rel="stylesheet" type="text/css" href="estilos/styles.css"> <!-- Enlazar el archivo CSS externo -->
 </head>
 <body>
   <?php include_once 'header.php'; ?>
@@ -63,6 +63,6 @@
   </div>
 
   <?php include_once 'footer.php'; ?>
-  <script src="fotografia.js"></script>
+  <script src="funciones/fotografia.js"></script>
 </body>
 </html>

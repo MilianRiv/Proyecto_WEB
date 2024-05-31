@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Galería de Videos</title>
-    <link rel="stylesheet" href="css/videos.css">
+    <link rel="stylesheet" href="estilos\videos.css">
 
 </head>
 <body>
@@ -19,6 +19,6 @@
 
     <?php include_once 'footer.php'; ?>
 
-    <script src="videos.js"></script>
+    <script src="funciones/videos.js"></script>
 </body>
 </html>
